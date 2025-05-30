@@ -410,3 +410,7 @@ img {
 .link-footer:focus {
   background-color: #31d0aa;
 }
+
+.icon-list.tofooter {
+  gap: 16px;
+}
